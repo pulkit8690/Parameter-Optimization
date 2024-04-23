@@ -5,6 +5,8 @@ This project demonstrates the optimization of Support Vector Machine (SVM) on th
 ## Dataset
 
 The Dry Bean dataset consists of 13611 instances, with each instance having 16 features. The dataset is divided into 10 different samples for training and testing.
+[Dry Bean Dataset](https://archive.ics.uci.edu/dataset/602/dry+bean+dataset)
+
 
 ## Implementation
 
@@ -39,6 +41,7 @@ The best parameters and accuracies are recorded for each sample. The sample with
 ### Convergence Graph
 
 A convergence graph is plotted for the sample with the maximum accuracy, showing how the training and testing accuracies change over iterations during the optimization process.
+![Convergence Graph](https://github.com/pulkit8690/Parameter-Optimization/blob/de934530033582232776a51cc8d155d7092aa7ee/output.png)
 
 ## Files Included
 
